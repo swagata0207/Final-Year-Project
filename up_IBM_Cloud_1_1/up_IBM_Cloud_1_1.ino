@@ -6,8 +6,8 @@
 //Device configuration for IBM Cloud
 #define ORG "337hw2" 
 #define DEVICE_TYPE "NodeMCU" 
-#define DEVICE_ID "483FDAAA63A1" 
-#define TOKEN "GGACU4fQHZVsugUXsJ"
+#define DEVICE_ID "XXXXXXXXXXXX" 
+#define TOKEN "XXXXXXXXXXXXXXXXXX"
 
 //mq3,buzzer,led pin setup
 int buzzer = D2;
