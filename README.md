@@ -4,4 +4,4 @@ This is my final year project in B.Tech curricullam. The project is to deploy a 
 ![nodemcu](https://upload.wikimedia.org/wikipedia/commons/3/31/Nodemcu_pins.png)
 
 # Interfacing code
-Code for interfacing NodeMCU (esp8266) with MQ3 sensor and connecting to IBM Watson IOT Platform, was written in C++ using Arduino IDE. 
+Code for interfacing NodeMCU (esp8266) with MQ3 sensor and connecting to IBM Watson IOT Platform, was written in C++ using Arduino IDE. The file **up_IBM_Cloud_1_1.ino** (inside the folder above) should be flashed into the development board to connect with wifi and to transmit data to cloud.
